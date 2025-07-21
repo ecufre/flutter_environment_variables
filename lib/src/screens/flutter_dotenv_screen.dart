@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_environment_variables/src/core/environment_variables/flutter_dotenv_service.dart';
+import 'package:flutter_environment_variables/src/core/environment_variables/flutter_dotenv/flutter_dotenv_service.dart';
 
 class FlutterDotenvScreen extends StatelessWidget {
   const FlutterDotenvScreen({super.key});
